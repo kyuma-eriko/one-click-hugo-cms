@@ -1,7 +1,6 @@
 ######################## default configuration ####################
-baseURL = "/"
-isCJKLanguage = true
-languageCode = "ja-jp"
+baseURL = "https://examplesite.com"
+languageCode = "en-us"
 title = "Liva | Personal blog template"
 theme = "liva-hugo"
 summaryLength = "10"
