@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "/"
-isCJKLanguage = true
+hasCJKLanguage = true
 languageCode = "ja-jp"
-title = "Liva | Personal blog template"
+title = "ウェルGOVゴビ | ゴビ区社会福祉協議会"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
