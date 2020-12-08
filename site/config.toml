@@ -11,6 +11,12 @@ disqusShortname = ""
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+############################# Markup ###############################
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 ############################# Plugins ##############################
 [params.plugins]
 
